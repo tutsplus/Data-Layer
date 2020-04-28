@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataLayer.iml" filepath="$PROJECT_DIR$/DataLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-wear-os-and-android-talking.iml" filepath="$PROJECT_DIR$/get-wear-os-and-android-talking.iml" group="get-wear-os-and-android-talking" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/get-wear-os-and-android-talking-mobile.iml" filepath="$PROJECT_DIR$/mobile/get-wear-os-and-android-talking-mobile.iml" group="get-wear-os-and-android-talking/mobile" />
+      <module fileurl="file://$PROJECT_DIR$/wear/get-wear-os-and-android-talking-wear.iml" filepath="$PROJECT_DIR$/wear/get-wear-os-and-android-talking-wear.iml" group="get-wear-os-and-android-talking/wear" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
     </modules>

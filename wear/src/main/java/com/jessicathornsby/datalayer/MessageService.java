@@ -2,7 +2,7 @@ package com.jessicathornsby.datalayer;
 
 import android.content.Intent;
 import com.google.android.gms.wearable.MessageEvent;
-import android.support.v4.content.LocalBroadcastManager;
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import com.google.android.gms.wearable.WearableListenerService;
 
 public class MessageService extends WearableListenerService {
